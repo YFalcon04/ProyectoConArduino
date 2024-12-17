@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArduinoFB</string>
+    <string name="historial_de_uso">Historial de uso</string>
+    <string name="acciones_del_porton">Acciones del portón</string>
+    <string name="esperando_datos">Esperando datos...</string>
+    <string name="logo">logo</string>
+</resources>
